@@ -1,0 +1,7 @@
+!DOCTYPE html>
+<html>
+<body>
+<h1>My New GitHub Program</h1>
+<p>OST Practical No-04</p>
+</body>
+</html>
